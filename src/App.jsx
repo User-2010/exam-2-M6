@@ -6,8 +6,10 @@ function App() {
 
   return (
     <>
+    <div className='container'>
     <AllOrdes />
     <MyOrders />
+    </div>
     </>
   )
 }
